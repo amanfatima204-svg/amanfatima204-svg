@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**amanfatima204-svg/amanfatima204-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eman Fatima 👋
 
-Here are some ideas to get you started:
+### Artificial Intelligence Student | Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Artificial Intelligence student at UET Lahore, Pakistan.
+
+💻 Interested in Artificial Intelligence, Machine Learning,
+Data Science, and Software Development.
+
+### 🚀 Currently Learning
+- Python
+- Machine Learning , LLM's , NLP..
+- Data Structures & Algorithms
+- Artificial Intelligence Concepts
+
+### 💻 Technical Skills
+- C++
+- Python
+- HTML & CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+### 📂 Featured Projects
+- VYBEX – Music Streaming Mobile App
+- NOVA – Responsive Website
+
+### 🎯 Career Goal
+To develop practical AI/ML skills and contribute
+to meaningful technology projects.
+
+### 🤝 Connect With Me
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aman-fatima111/)
+- GitHub: [@amanfatima204-svg](https://github.com/amanfatima204-svg)
