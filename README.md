@@ -1,5 +1,5 @@
 
-# Hi, I'm Eman Fatima 👋
+# Hi, I'm Aman Fatima 👋
 
 ### Artificial Intelligence Student | Aspiring AI/ML Engineer
 
